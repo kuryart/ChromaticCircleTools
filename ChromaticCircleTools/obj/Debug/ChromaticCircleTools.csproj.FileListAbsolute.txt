@@ -1,0 +1,11 @@
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\bin\Debug\ChromaticCircleTools.exe.config
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\bin\Debug\ChromaticCircleTools.exe
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\bin\Debug\ChromaticCircleTools.pdb
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.csprojAssemblyReference.cache
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.Properties.Resources.resources
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.csproj.GenerateResource.cache
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.csproj.CoreCompileInputs.cache
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.exe
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.pdb
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.IntervalsTable.resources
+C:\Users\PauloCezar\source\repos\ChromaticCircleTools\ChromaticCircleTools\obj\Debug\ChromaticCircleTools.ChromaticCircle.resources
